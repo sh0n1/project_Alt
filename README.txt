@@ -1,0 +1,1 @@
+This repo is full of code that i will use for my personal AI assistant project
