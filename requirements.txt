@@ -1,0 +1,2 @@
+# Requirements for AI Assistant Project
+openai>=1.0.0
